@@ -1,41 +1,40 @@
 # 👋 Hey, I'm Ankit Bhatnagar
 
-**Senior Software Engineer — Full Stack (Frontend + Backend)**  
-**React | Node.js | System Design | Scalable Web Systems**
+**Senior Software Engineer — Full Stack (React | Next.js | Node.js | Express | NestJS)**  
+**Backend & API Systems | Database Design | Scalable Architecture | System Design**
 
-I build **end-to-end web systems** — from performant, user-centric frontends to reliable backend services and APIs.  
-My strength lies in **owning features and systems completely**: design, implementation, performance, and maintainability.
+I build **real, production-ready applications** — not just UI prototypes.  
+I focus on **full-stack engineering with a strong backend and system design mindset**.
 
-💼 Open to **Full-Stack / Frontend / Backend / System Design roles**
+💼 Targeting **Full-Stack / Backend / System Design / Scalable Architecture roles**
 
 ---
 
-## 🧠 What I’m Focused On
+## 🧠 What I’m Specialized In
 
-### Frontend (my core strength)
-- Building **performant, scalable UIs** using **React, Next.js, TypeScript**
-- State management with **Redux** and modern React patterns
-- Performance optimization (rendering, LCP, memoization, UX at scale)
-- Writing clean, maintainable, component-driven frontend architecture
+### Frontend
+- JavaScript, React, Next.js  
+- State management: Redux / Context  
+- Tailwind CSS / responsive design  
+- UI that interacts seamlessly with backend APIs
 
 ### Backend & Systems
-- Designing and building **Node.js APIs** using **Express & NestJS**
-- Authentication, authorization, and API contracts
-- **Database design & data modeling** (SQL & NoSQL)
-- Writing backend code that is testable, scalable, and production-ready
+- Node.js, Express, NestJS  
+- RESTful API design & implementation  
+- Authentication, Authorization (JWT, OAuth)
+- Secure & scalable backend architecture
 
-### System Design & Scalability
-- High-level & low-level system design
-- Distributed systems concepts: **caching, queues, async processing**
-- Performance, reliability, and fault-tolerant design
-- Thinking in terms of **ownership, trade-offs, and scale**
+### Databases & Performance
+- PostgreSQL, MongoDB, Redis  
+- SQL & NoSQL data modeling  
+- Caching strategies & performance optimization
 
-### Cloud & Infra (working knowledge)
-- CI/CD pipelines and deployment workflows
-- Dockerized services
-- Observability basics: logging, monitoring, debugging production issues
+### Architecture & DevOps
+- Distributed systems & system design
+- CI/CD (GitHub Actions, deployment automation)
+- Docker, environment management
 
-I’m not *just* a frontend engineer — I’m a **full-stack engineer with strong frontend depth and solid backend & system design skills**.
+I’m not just a frontend developer — I’m a **full-stack engineer who owns both UI and backend systems**, and solves complex technical problems end to end.
 
 ---
 
