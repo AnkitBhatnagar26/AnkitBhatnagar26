@@ -1,63 +1,52 @@
-# 👋 Hey, I'm Ankit Bhatnagar
+# 👋 Hey, I’m Ankit Bhatnagar
 
 **Senior Software Engineer — Full Stack (React | Next.js | Node.js | Express | NestJS)**  
-**Backend & API Systems | Database Design | Scalable Architecture | System Design**
+**System Design | Scalable APIs | Database Design | Performance**
 
-I build **real, production-ready applications** — not just UI prototypes.  
-I focus on **full-stack engineering with a strong backend and system design mindset**.
+I build **production-grade web apps** end-to-end — UI + backend + data + reliability.
 
-💼 Targeting **Full-Stack / Backend / System Design / Scalable Architecture roles**
+🎯 Targeting **Full-Stack / Backend-leaning / System Design** roles 
 
 ---
 
-## 🧠 What I’m Specialized In
+## What I’m strong at
 
 ### Frontend
-- JavaScript, React, Next.js  
-- State management: Redux / Context  
-- Tailwind CSS / responsive design  
-- UI that interacts seamlessly with backend APIs
+- React, Next.js, TypeScript
+- State management: Redux / Context
+- Performance, UX, clean component architecture
 
-### Backend & Systems
-- Node.js, Express, NestJS  
-- RESTful API design & implementation  
-- Authentication, Authorization (JWT, OAuth)
-- Secure & scalable backend architecture
+### Backend
+- Node.js, Express, NestJS
+- REST API design, auth (JWT), validation, error handling
+- Service boundaries, modular architecture
 
-### Databases & Performance
-- PostgreSQL, MongoDB, Redis  
-- SQL & NoSQL data modeling  
-- Caching strategies & performance optimization
+### Databases & performance
+- PostgreSQL, MongoDB, Redis
+- SQL/NoSQL modeling, indexing basics, caching strategies
 
-### Architecture & DevOps
-- Distributed systems & system design
-- CI/CD (GitHub Actions, deployment automation)
-- Docker, environment management
-
-I’m not just a frontend developer — I’m a **full-stack engineer who owns both UI and backend systems**, and solves complex technical problems end to end.
+### System design & engineering
+- Designing scalable systems (queues, rate limiting, caching, resilience)
+- CI/CD + Docker basics, deployment-ready workflows
 
 ---
 
-## 💡 Tech Stack
+## Proof of work (high-signal)
+- ✅ Full-stack apps with real backend logic + DB
+- ✅ Backend services with auth, validation, and clean API design
+- ✅ System design demos (caching / queues / rate limiter / scaling patterns)
 
-**Frontend:** React, Next.js, Redux, Tailwind, TypeScript  
+---
+
+## Tech
+**Frontend:** React, Next.js, TypeScript, Redux, Tailwind  
 **Backend:** Node.js, Express, NestJS  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Infra & Tools:** Docker, GitHub Actions, REST APIs, API design
+**Data:** PostgreSQL, MongoDB, Redis  
+**Tools:** Docker, GitHub Actions, Testing (Jest/Playwright), Observability basics
 
 ---
 
-## 📌 What You’ll Find Here
-
-- Full-stack applications with real backend logic
-- APIs with authentication, data modeling, and scalability in mind
-- Projects demonstrating system-design and architectural decisions
-- Focused demos and utilities showing frontend & backend depth
-
----
-
-## 📫 Connect With Me
-
-- ✉️ Email: **ankitbhatnagar.job@gmail.com**
-- 🔗 LinkedIn: *https://www.linkedin.com/in/ankit-bhatnagar-dev/recent-activity/all/*  
-- 🚀 Portfolio: *https://mac-os-portfolio-black.vercel.app/*  
+## Connect
+- ✉️ ankitbhatnagar.job@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/ankit-bhatnagar-dev/
+- 🚀 Portfolio: https://mac-os-portfolio-black.vercel.app/
